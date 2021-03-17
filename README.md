@@ -8,7 +8,7 @@
 Sou uma Desenvolvedora Front-End, que estuda desenvolvimento full stack na [@trybe](https://www.betrybe.com/).
 
 ### Conheça alguns dos meus projetos
-[@Tarot-Vision](https://brunafranciele.github.io/tarot-vision/) ✨🔮🃏 - Aplicação para tiragem de tarot diário
+[@Tarot-Vision](https://brunafranciele.github.io/tarot-vision/) ✨🔮🃏 - Aplicação para tiragem de tarot diário </br>
 [@APP-TMJ](https://app-tmj.herokuapp.com/) 📱📚 - App desenvolvido para o hackathon da CCR - Novos caminhos para a juventude de janeiro/2021.
 
 <!-- ### Minhas skills
